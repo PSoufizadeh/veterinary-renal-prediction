@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "For academic inquiries or citation of the unpublished study, please contact the portfolio maintainer."
+title: "Veterinary Renal Morphology Prediction: Research Notebooks"
+type: software
+authors:
+  - family-names: Soufizadeh
+    given-names: Parham
+repository-code: "https://github.com/PSoufizadeh/veterinary-renal-prediction"
