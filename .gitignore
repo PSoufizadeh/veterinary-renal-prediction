@@ -1,0 +1,50 @@
+# Confidential research data
+data/
+datasets/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.pkl
+*.pickle
+
+# Trained models
+models/
+checkpoints/
+*.keras
+*.h5
+*.hdf5
+*.joblib
+*.npy
+*.npz
+
+# Unpublished research findings
+results/
+outputs/
+reports/
+figures/
+*.pdf
+*.docx
+*.png
+*.jpg
+*.svg
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Credentials and archives
+.env
+.env.*
+*.zip
+*.rar
+
+# Local settings
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
